@@ -1,0 +1,24 @@
+.height-vh {
+    height: 100vh;
+    background-color: #EFEFEF;
+}
+
+.footer {
+    border-top: 1px solid #CCCCCC;
+}
+
+.header {
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.header a:hover {
+    text-decoration: none;
+}
+
+.brand {
+    min-width: 160px;    
+}
+
+.image {
+    background-color: #CCCCCC;
+}
